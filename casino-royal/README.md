@@ -27,6 +27,7 @@ Eine eigene Domain (z. B. `meincasino.de`) kannst du bei Render unter *Settings 
 - Alle, die die Adresse öffnen, landen im Raum `main` und sitzen automatisch an denselben Tischen.
 - Für einen **privaten Raum** hängst du `?room=deinname` an: `https://casino-royal.onrender.com/?room=freunde`. Wer denselben Raumnamen verwendet, spielt zusammen. Unten im Spiel steht ein Knopf **„Link kopieren“**.
 - Jeder setzt sich per **＋** an einen Tisch. Der Spieler mit der 👑 startet die gemeinsamen Runden.
+- Unter **Play → Party Games** gibt es Spiele nur für zwei (Tic-Tac-Toe, Vier gewinnt, Schere Stein Papier, Reversi, Käsekästchen). Einer eröffnet ein Spiel, der andere im selben Raum tritt unter „Offene Spiele“ bei. Zu zweit an einem Gerät geht es auch.
 
 ## Gut zu wissen
 - Es braucht kein Konto. Jeder Browser merkt sich sein Guthaben selbst (im Browser gespeichert). Es gibt keinen Schutz gegen Schummeln, für Freunde ist das okay.
